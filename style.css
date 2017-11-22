@@ -51,7 +51,7 @@ h2, h3 {
 	border-bottom: 2px solid #ccc;
 	width: 100%;
 }
-#logo {
+#Logo {
 	width: 250px;
 	height: 90px;
 	background: #4aaaa5;
@@ -87,6 +87,8 @@ nav a:first-child {
 
 #main-container {
 	padding-top: 130px;
+	min-height: 100%;
+	margin-bottom: -100px;
 }
 
 .main-section {
@@ -146,6 +148,8 @@ footer {
 	color: #ccc;
 	font-size: 12px;
 	text-align: center;
+	height: 100px;
+	margin-top: 300px;
 }
 
 /*Portfolio*/
